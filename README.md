@@ -1,7 +1,7 @@
 <h1 align="center">Burhan Bashir Hakim</h1>
 
 <p align="center">
-  <i>From executing projects on sites to deploying them on cloud.</i>
+  <i>Building in the cloud. Grounded in real-world engineering.</i>
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@
 
 ## Who I Am
 
-I am an Electrical Engineer with 4+ years of experience across construction,
-compliance, and banking. Not a typical background for Cloud & DevOps — and
-that is exactly what makes it valuable.
+Cloud & DevOps professional with 4+ years of cross-industry experience —
+building and automating infrastructure in the cloud.
 
-I spent years executing large-scale infrastructure projects on the ground.
-Now I build and automate infrastructure in the cloud.
+My background spans construction, compliance, and banking — each chapter
+building discipline, accountability, and the ability to deliver under pressure.
+Not soft skills. Real ones.
 
 Currently pursuing an Advanced Certification in Cloud Computing & DevOps
-from iHUB DivyaSampark, IIT Roorkee — working with AWS, Linux, Docker,
+from iHUB DivyaSampark, IIT Roorkee — hands-on with AWS, Linux, Docker,
 Kubernetes, Terraform, Jenkins, and Ansible.
 
 ---
