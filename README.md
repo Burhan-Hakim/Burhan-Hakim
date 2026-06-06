@@ -1,31 +1,100 @@
-# Hi, I'm Burhan Bashir Hakim 👋
+<h1 align="center">Burhan Bashir Hakim</h1>
 
-## Cloud & DevOps Professional
+<p align="center">
+  <i>From executing projects on sites to deploying them on cloud.</i>
+</p>
 
-Electrical Engineer with 4+ years of cross-industry experience —
-now fully committed to building a career in Cloud & DevOps.
+<p align="center">
+  <a href="https://linkedin.com/in/burhan-bashir-hakim-48a8a3225">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:burhanbash8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Burhan-Hakim&color=blue&style=for-the-badge&label=Profile+Views"/>
+</p>
+
+---
+
+## Who I Am
+
+I am an Electrical Engineer with 4+ years of experience across construction,
+compliance, and banking. Not a typical background for Cloud & DevOps — and
+that is exactly what makes it valuable.
+
+I spent years executing large-scale infrastructure projects on the ground.
+Now I build and automate infrastructure in the cloud.
 
 Currently pursuing an Advanced Certification in Cloud Computing & DevOps
-from iHUB DivyaSampark, IIT Roorkee in collaboration with Intellipaat.
+from iHUB DivyaSampark, IIT Roorkee — working with AWS, Linux, Docker,
+Kubernetes, Terraform, Jenkins, and Ansible.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### ⚙️ DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 💻 Systems & Version Control
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📝 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [AWS S3 Static Website](https://github.com/Burhan-Hakim/aws-s3-static-website) | Hosted a static portfolio website on AWS S3 with public access and static hosting enabled | AWS S3 |
-| More coming soon
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 1 | [AWS S3 Static Website](https://github.com/Burhan-Hakim/aws-s3-static-website) | Static portfolio website hosted on AWS S3 with public access and static hosting configured | AWS S3 |
+| 2 | More coming soon... | | |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| Advanced Certification in Cloud Computing & DevOps | iHUB DivyaSampark, IIT Roorkee | 🔄 In Progress |
+| LFS101: Introduction to Linux | Linux Foundation | ✅ Completed |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Burhan-Hakim&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Hakim&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Hakim&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Burhan-Hakim&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Open to: Cloud Engineering • DevOps • Infrastructure & Operations • AWS Support</b>
+</p>
