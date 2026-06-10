@@ -58,10 +58,11 @@ Kubernetes, Terraform, Jenkins, and Ansible.
 
 ## 🚀 Projects
 
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 1 | [AWS S3 Static Website](https://github.com/Burhan-Hakim/aws-s3-static-website) | Static portfolio website hosted on AWS S3 with public access and static hosting configured | AWS S3 |
-| 2 | More coming soon... | | |
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 1 | [AWS S3 Static Website](https://github.com/Burhan-Hakim/aws-s3-static-website) | Static portfolio website hosted on AWS S3 with public access and static hosting | AWS S3, HTML |
+| 2 | [AWS Multi-VPC Architecture](https://github.com/Burhan-Hakim/aws-multi-vpc-architecture) | Production & Development VPC with 4-tier design, NAT Gateway, VPC Peering, Security Groups and NACLs | VPC, EC2, NAT, NACLs, IGW |
+| 3 | More coming soon... | | |
 
 ---
 
